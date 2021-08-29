@@ -1,2 +1,2 @@
 #Start programming
-reach learning and git
+#git on windows
